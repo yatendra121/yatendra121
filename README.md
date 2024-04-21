@@ -1,8 +1,7 @@
-## Hi Developers! 👋
+## Hi There! 👋
 
-Greetings! I'm a Senior Software Engineer at NIIT Limited, armed with a Master's Degree in Computer Science. With a knack for coding, problem-solving, and collaboration, I'm passionate about driving innovation in tech. I thrive on unraveling complexities, fostering teamwork, and delivering high-quality solutions. Let's innovate together!
-
-👉 You can find out more info and other social links [on my website](https://yatendra.tech).
+🌐 More Info: [Visit my website](https://yatendra.tech)
+📫 Contact: [Email me](yatendra121kushwaha@gmail.com)
 
 
 <!-- 

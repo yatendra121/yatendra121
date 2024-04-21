@@ -11,11 +11,7 @@
 * 🏢 Worked at Singsys Software Pvt. Ltd. as a Software Engineer and Trainee Software Engineer from 2019 to 2022
 * 🎓 Mastered from KNIT, Sultanpur in 2019
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-560px-42_Logo.svg.png" width=80px height=80px />
-</p>
-
-##### 📁 My Open Source Projects: 
+<!-- ##### 📁 My Open Source Projects: 
 * [@qnx/vuetify](https://github.com/yatendra121/vq-vuetify#readme): An extendable library of Vuetify form components and more.
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=yatendra121&repo=vq-vuetify&theme=apprentice" />
@@ -28,3 +24,4 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=yatendra121&repo=composables&theme=apprentice" />
     </p>
+    -->

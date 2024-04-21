@@ -1,5 +1,13 @@
+## Hi Developers! 👋
+
+Greetings! I'm a Senior Software Engineer at NIIT Limited, armed with a Master's Degree in Computer Science. With a knack for coding, problem-solving, and collaboration, I'm passionate about driving innovation in tech. I thrive on unraveling complexities, fostering teamwork, and delivering high-quality solutions. Let's innovate together!
+
+👉 You can find out more info and other social links [on my website](https://yatendra.tech).
+
+
+<!-- 
 ![helloWorld](https://readme-typing-svg.herokuapp.com/?font=PublicSans+Code&duration=4000&pause=1000&color=F6F6F6&lines=Hello+Developers!)
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Yatendra%20Kushwaha&fontAlign=50&fontAlignY=25&section=header&reversal=false&textBg=false&fontSize=35&desc=Senior%20Software%20Engineer&descAlign=50&descAlignY=45&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Yatendra%20Kushwaha&fontAlign=50&fontAlignY=25&section=header&reversal=false&textBg=false&fontSize=35&desc=Senior%20Software%20Engineer&descAlign=50&descAlignY=45&descSize=20)
 
 |Streaks
 |-

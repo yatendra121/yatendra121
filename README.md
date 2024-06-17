@@ -1,7 +1,7 @@
 ## Hi There! 👋
 
 🌐 More Info: [Visit my website](https://yatendra.tech)
-📫 Contact: [Email me](yatendra121kushwaha@gmail.com)
+<!-- 📫 Contact: [Email me](yatendra121kushwaha@gmail.com) -->
 
 
 <!-- 

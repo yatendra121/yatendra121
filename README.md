@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-🌐 More Info: [Visit my website](https://yatendra.tech)
+🌐 More Info: [Visit my website](https://yatendra.online)
 <!-- 📫 Contact: [Email me](yatendra121kushwaha@gmail.com) -->
 
 
